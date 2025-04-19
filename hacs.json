@@ -1,0 +1,11 @@
+{
+    "name": "ORNO OR-WE-517",
+    "content_in_root": false,
+    "domains": [
+        "sensor"
+    ],
+    "country": "PL",
+    "render_readme": true,
+    "iot_class": "local_polling",
+    "filename": "custom_components/orno_517/manifest.json"
+}
