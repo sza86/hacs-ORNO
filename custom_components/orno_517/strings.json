@@ -1,0 +1,16 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Dodaj ORNO 517 (Modbus TCP)",
+        "description": "Podaj IP/port bramki Modbus TCP oraz Unit ID (slave).",
+        "data": {
+          "host": "Adres IP",
+          "port": "Port",
+          "unit_id": "Unit ID",
+          "scan_interval": "Interwał odpytywania (s)"
+        }
+      }
+    }
+  }
+}

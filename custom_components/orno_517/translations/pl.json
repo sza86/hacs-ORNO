@@ -1,0 +1,16 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "F&F LE03MW Modbus",
+        "description": "Połącz z licznikiem F&F LE03MW przez Modbus TCP.",
+        "data": {
+          "host": "Adres IP",
+          "port": "Port TCP",
+          "slave_id": "Slave ID",
+          "scan_interval": "Interwał odczytu (s)"
+        }
+      }
+    }
+  }
+}
